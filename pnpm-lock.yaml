@@ -8,14 +8,14 @@ specifiers:
   '@nestjs/schematics': ^8.0.11
   '@nestjs/testing': ^8.4.7
   '@types/express': ^4.17.13
-  '@types/jest': 28.1.3
+  '@types/jest': 28.1.4
   '@types/node': ^18.0.0
   '@types/supertest': ^2.0.12
   '@typescript-eslint/eslint-plugin': ^5.30.0
   '@typescript-eslint/parser': ^5.30.0
   eslint: ^8.18.0
   eslint-config-prettier: ^8.5.0
-  eslint-plugin-prettier: ^4.2.0
+  eslint-plugin-prettier: ^4.2.1
   jest: 28.1.2
   prettier: ^2.7.1
   reflect-metadata: ^0.1.13
@@ -44,14 +44,14 @@ devDependencies:
   '@nestjs/schematics': 8.0.11_nobats3jkocaued6l3papcxri4
   '@nestjs/testing': 8.4.7_yg656aic4dli3q2c2sx4xyqza4
   '@types/express': 4.17.13
-  '@types/jest': 28.1.3
+  '@types/jest': 28.1.4
   '@types/node': 18.0.0
   '@types/supertest': 2.0.12
   '@typescript-eslint/eslint-plugin': 5.30.0_5mtqsiui4sk53pmkx7i7ue45wm
   '@typescript-eslint/parser': 5.30.0_b5e7v2qnwxfo6hmiq56u52mz3e
   eslint: 8.18.0
   eslint-config-prettier: 8.5.0_eslint@8.18.0
-  eslint-plugin-prettier: 4.2.0_xu6ewijrtliw5q5lksq5uixwby
+  eslint-plugin-prettier: 4.2.1_xu6ewijrtliw5q5lksq5uixwby
   jest: 28.1.2_jbmz3vlfopghb5mdasddsdxfzq
   prettier: 2.7.1
   source-map-support: 0.5.21
@@ -1101,8 +1101,8 @@ packages:
       '@types/istanbul-lib-report': 3.0.0
     dev: true
 
-  /@types/jest/28.1.3:
-    resolution: {integrity: sha512-Tsbjk8Y2hkBaY/gJsataeb4q9Mubw9EOz7+4RjPkzD5KjTvHHs7cpws22InaoXxAVAhF5HfFbzJjo6oKWqSZLw==}
+  /@types/jest/28.1.4:
+    resolution: {integrity: sha512-telv6G5N7zRJiLcI3Rs3o+ipZ28EnE+7EvF0pSrt2pZOMnAVI/f+6/LucDxOvcBcTeTL3JMF744BbVQAVBUQRA==}
     dependencies:
       jest-matcher-utils: 28.1.1
       pretty-format: 28.1.1
@@ -2147,8 +2147,8 @@ packages:
       eslint: 8.18.0
     dev: true
 
-  /eslint-plugin-prettier/4.2.0_xu6ewijrtliw5q5lksq5uixwby:
-    resolution: {integrity: sha512-w+EYWwMltYqlsirUG2LXROmC8cBIUSEpR4s/Oft8wX8Xm99FTfU+M+ehv47ZQbYPqD9ZAuCtZI6IuWw3Q004dw==}
+  /eslint-plugin-prettier/4.2.1_xu6ewijrtliw5q5lksq5uixwby:
+    resolution: {integrity: sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       eslint: '>=7.28.0'
